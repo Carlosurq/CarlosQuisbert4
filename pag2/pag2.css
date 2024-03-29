@@ -1,0 +1,20 @@
+/* Estilos personalizados */
+body {
+    background-color: #253f50; /* Color de fondo para todo el cuerpo */
+    font-family: Arial, sans-serif; /* Tipo de letra para todo el cuerpo */
+  }
+  
+h1,
+h2 {
+    background-color: #5f6f88; /* Color de fondo para los títulos */
+    color: #ececec; /* Color del texto de los títulos */
+    padding: 10px; /* Espaciado interno alrededor de los títulos */
+    border-radius: 5px; /* Bordes redondeados para los títulos */
+}
+  
+p,
+ .p{
+    background-color: #758999; /* Color de fondo para párrafos y listas */
+    padding: 10px; /* Espaciado interno alrededor de párrafos y listas */
+    border-radius: 5px; /* Bordes redondeados para párrafos y listas */
+}
